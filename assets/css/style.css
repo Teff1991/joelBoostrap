@@ -1,0 +1,8 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: content-box; 
+}
+.barra{
+    background-color: rgb(151, 243, 223);
+}
